@@ -1,0 +1,15 @@
+# Ignore class files and compiled output
+*.class
+/bin/
+/target/
+
+# Ignore Eclipse files
+.settings/
+/.project
+.classpath
+
+# Ignore OS & editor temp files
+*.log
+.DS_Store
+Thumbs.db
+
